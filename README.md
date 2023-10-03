@@ -4,4 +4,15 @@ The repository contains the jupyter notebook files from the course.<br>
 You can go through the notebooks to:<br>
 - Learn prompt engineering best practices for application development
 - Discover new ways to use LLMs, including how to build your own chatbot
-- Gain hands-on practice writing and iterating on prompts using the OpenAI API
+- Gain hands-on practice writing and iterating on prompts using the OpenAI API<br>
+<br>
+In all of these notebooks, I have used the following method/format to setup my OpenAI API key:<br>
+```python
+import openai
+import os
+
+from dotenv import load_dotenv, find_dotenv
+_ = load_dotenv(find_dotenv()) # read local .env file
+
+openai.api_key  = os.getenv('OPENAI_API_KEY')
+```

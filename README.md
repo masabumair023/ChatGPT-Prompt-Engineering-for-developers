@@ -7,7 +7,7 @@ You can go through the notebooks to:<br>
 - Gain hands-on practice writing and iterating on prompts using the OpenAI API<br>
 <br>
 In all of these notebooks, I have used the following method/format to setup my OpenAI API key:<br>
-```python
+```
 import openai
 import os
 

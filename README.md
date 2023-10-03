@@ -8,7 +8,7 @@ You can go through the notebooks to:<br>
 <br>
 In all of these notebooks, I have used the following method/format to setup my OpenAI API key:<br>
 
-```
+```python
 import openai
 import os
 

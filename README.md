@@ -18,8 +18,8 @@ _ = load_dotenv(find_dotenv()) # read local .env file
 openai.api_key  = os.getenv('OPENAI_API_KEY')
 ```
 <br>
-This is a recommended method as in this way there is no chance of exposing your OpenAI API key to the world.<br><br>
-An alternate way is to directly configure the key as:<br>
+This is a recommended method as in this way there is no chance of exposing your OpenAI API key to the world.<br>
+An alternate way is to directly configure the key as:<br><br>
 
 ```python
 import openai

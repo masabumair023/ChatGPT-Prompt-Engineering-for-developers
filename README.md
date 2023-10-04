@@ -19,7 +19,7 @@ openai.api_key  = os.getenv('OPENAI_API_KEY')
 ```
 <br>
 This is a recommended method as in this way there is no chance of exposing your OpenAI API key to the world.<br><br>
-An alternate way is to directly configure the key as:
+An alternate way is to directly configure the key as:<br>
 
 ```python
 import openai

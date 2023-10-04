@@ -6,7 +6,7 @@ You can go through the notebooks to:<br>
 - Discover new ways to use LLMs, including how to build your own chatbot
 - Gain hands-on practice writing and iterating on prompts using the OpenAI API<br>
 <br>
-In all of these notebooks, I have used the following method/format to setup my OpenAI API key:<br>
+In all of these notebooks, I have used the following method/format to setup my OpenAI API key:<br><br>
 
 ```python
 import openai

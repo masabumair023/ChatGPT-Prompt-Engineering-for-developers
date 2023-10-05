@@ -25,3 +25,5 @@ An alternate way is to directly configure the key as:<br><br>
 import openai
 openai.api_key = "sk-..."
 ```
+
+This method is not recommended as you can accidentally expose your key when hosting your code on public platforms.

@@ -1,4 +1,4 @@
-# ChatGPT Prompt Engineering
+# ChatGPT Prompt Engineering for Developers
 This repository is a part of ChatGPT Prompt Engineering course from [deeplearning.ai](https://deeplearning.ai). You can access the course [here](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction?_gl=1*12zf2uv*_ga*NDU3MTIxMzQwLjE2ODI2NjM0MTM.*_ga_PZF1GBS1R1*MTY5NjIzODM2MC4xNS4wLjE2OTYyMzgzNjEuNTkuMC4w).<br>
 The repository contains the jupyter notebook files from the course.<br>
 You can go through the notebooks to:<br>
